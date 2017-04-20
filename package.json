@@ -1,0 +1,15 @@
+{
+  "name": "data-types-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daggy": "github:fantasyland/daggy#1b1a57c26ef3ab3303e8befcb18fd5e0cababe3f",
+    "sanctuary-type-classes": "^4.0.0"
+  }
+}
